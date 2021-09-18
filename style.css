@@ -1,0 +1,100 @@
+.text
+{
+ color: white;
+ font-family: 'Times New Roman', Times, serif;
+}
+ html
+ {
+     scroll-behavior: smooth;
+ }
+.body
+ {
+    background-image: url("imagini/image-background.jpg");
+    background-size: cover;
+ }
+ .titlu
+ {
+     text-align: center;
+     color: rgb(255, 255, 255);
+     margin-top: 1%;
+     
+     
+ 
+ }
+ .titlu:hover
+ {
+    color: rgba(48, 238, 105, 0.993);
+ }
+ .table-main
+ {
+     color: white;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 23px;
+     width: 100%;
+     border-color: rgb(5, 5, 7);
+     text-align: center;
+     background-color: rgba(56, 95, 66, 0.705);
+    
+ }
+.imagini-tabel-main
+{
+    height: 50px; 
+    width: 70px;
+}
+ .container-tabel
+ {
+    
+    background-color: rgba(134, 134, 134, 0.699);
+    margin-top: 10%;
+    height: 500px;
+    padding-top: 6%;
+}
+.link
+{
+    color: rgb(236, 236, 236);
+
+}
+.link:hover
+{
+    color: rgb(53, 248, 69);
+}
+#tabel-header
+{
+    text-decoration-line: underline;
+    color: rgb(189, 189, 189);
+}
+.buton-back
+{
+    position:fixed;
+    left: 30px;
+    bottom: 10px;
+
+}
+.text-descriere
+{
+    font-size: 20px;
+    text-align: justify;
+}
+.li-color
+{
+    color: rgb(65, 247, 65);
+}
+.container-descriere
+{
+    background-color: rgba(134, 134, 134, 0.699);
+    margin-top: 10%;
+    
+    padding-top: 6%;
+}
+.row
+{
+    padding-top: 10px;
+}
+#container-poze
+{
+    margin-top: 3%;
+    height: 600px;
+    background-color: rgba(134, 134, 134, 0.699);
+}    
+
+
